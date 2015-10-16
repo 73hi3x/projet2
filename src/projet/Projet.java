@@ -7,7 +7,8 @@ public class Projet {
 
 	}
 int  factorielle(int n){
-	return n;
+	if (n==0) return 1; 
+	return n*factorielle(n-1);
 	
 }
 }
