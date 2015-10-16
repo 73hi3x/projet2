@@ -6,5 +6,8 @@ public class Projet {
 		// TODO Auto-generated method stub
 
 	}
-
+int  factorielle(int n){
+	return n;
+	
+}
 }
